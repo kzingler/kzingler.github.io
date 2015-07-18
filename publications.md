@@ -6,7 +6,7 @@ permalink: /publications/
 
 [Visualization of Next-Generation Sequencing of Brain Cancer Gene Expression](../assets/bioinformatics.pdf)
 
-[Center for Leadership in Technology Commercialization](assets/cltc.pdf)
+[Center for Leadership in Technology Commercialization](../assets/cltc.pdf)
 
 [Novel Anticancer Drugs on the Basis of Diversely Functionalized N-Containing Heterocycles (NMT)](../assets/anticancer.pdf)
 
