@@ -1,7 +1,7 @@
 # Site settings
-title: Kailee Zingler
-email: your-email@domain.com
-description: Kailee Zingler
+title: Kailee Zingler Van Why
+email: kzingler@nmt.edu
+description: Undergraduate Biology, Chemistry, and Commercialization Research Assistant
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb

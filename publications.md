@@ -4,8 +4,10 @@ title: Publications
 permalink: /publications/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+[Visualization of Next-Generation Sequencing of Brain Cancer Gene Expression](assets/bioinformatics.pdf)
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+[Center for Leadership in Technology Commercialization](assets/cltc.pdf)
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+[Novel Anticancer Drugs on the Basis of Diversely Functionalized N-Containing Heterocycles (NMT)](assets/anticancer.pdf)
+
+[Novel Anticancer Drugs on the Basis of Diversely Functionalized N-Containing Heterocycles (ACS)](assets/acs.pdf)
