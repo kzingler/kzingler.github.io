@@ -6,7 +6,3 @@ permalink: /contact/
 
 #Email
 <kzingler@nmt.edu>
-
-#Phone
-
-#FaceBook
