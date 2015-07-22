@@ -8,4 +8,4 @@ permalink: /contact/
 <kzingler@nmt.edu>
 
 #Phone
-<505-610-2907>
+505-610-2907
