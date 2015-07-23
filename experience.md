@@ -4,4 +4,4 @@ title: Experience
 permalink: /experience/
 ---
 
-[Resume](https://webmail.nmt.edu/src/webmail.php)
+[Resume](file:///C:/Users/Kailee/Downloads/resumekzing%20bio%20(1).pdf)
