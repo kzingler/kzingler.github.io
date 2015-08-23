@@ -1,90 +1,95 @@
 \documentclass[margin]{res} 
 \usepackage{setspace}
+\usepackage{multicol}
 \singlespacing
 % the margin option causes section titles to appear to the left of body text 
-\textwidth=5.8 in % increase textwidth to get smaller right margin
+\textwidth=5.5 in % increase textwidth to get smaller right margin
 %\usepackage{helvetica} % uses helvetica postscript font (download helvetica.sty)
 %\usepackage{newcent}   % uses new century schoolbook postscript font 
+\addtolength{\voffset}{-20pt}
+
+
+\newenvironment{nobreaker}
+{\par\nobreak\vfil\penalty0\vfilneg\vtop\bgroup}
+{\par\xdef\tpd{\the\prevdepth}\egroup\prevdepth=\tpd}
 
 \begin{document} 
- 
+  \begin{nobreaker}
 \name{Kailee Zingler\\[12pt]} % the \\[12pt] adds a blank line after name
  
 \address{1007 Leroy Pl \\ Socorro, NM 87801  \\
-        kzingler@nmt.edu}
+        kzingler@nmt.edu \\ kvzvanwhy.me}
 
 
  
 \begin{resume} 
- 
+
 \section{Objective} 
-Attend graduate school for Medical Microbiology.
+Attend graduate school for Medical Microbiology in pursuit of a PhD
 
 \section{Skills} 
-  {\bf Languages} English and French \\
-  {\bf Graduate Skills} Interpersonal skills, team player, organized, studious, timely\\
-  {\bf Skills in Field} Bacterial cell culture, Drug testing (Synergy, PDT, MIC), PCR, Spectroscopy, Protein Purification, Chemical Synthesis (Organic and Metalorganic), NMR, Chromatography (Column, Thin Layer) 
-  
-  \section{Portfolio}
-  kvzvanwhy.me
+\begin{multicols}{2}
+	{\bf Technical Skills:}\\
+ 	Aseptic technique (streak plating, broth/pipette transfer), bacterial cell culture, staining (simple, Gram), viability (dilution, plate count), drug testing (MIC, synergy, PDT), PCR, spectroscopy, radioactive labeling, purification (DNA, protein), chemical synthesis (organic, metalorganic), NMR, chromatography (column,thin layer) \\
+ 	{\bf Language Skills:}\\
+ 	 English and basic French proficiency \\
+ 	 {\bf Computer Skills:}\\
+         \LaTeX, Proficient in Microsoft Office \\
+ 	{\bf Other Skills:}\\
+ 	Interpersonal communication, presenting, organizing, studious, diligent\\ 	
+\end{multicols}
+
 
 \section{Education} 
- Bachelors of Science in Biology Minor in Chemistry\\
+ {\bf Bachelors of Science in Biology}\\
  New Mexico Institute of Mining and Technology (NMT), Socorro, NM\\
  Epected Graduation Date May 2016 \\
 GPA 3.63 
+
+
+\section{Patents/Publications}
  
 
 \section{Experience}
-{\bf Student Research Assistant}
+{\bf Student Researcher}
 Antimicrobial Drug Discovery in Biology Department of NMT\\
 January 2015 - Present\\
-Advised by Dr. Snezna Rogelj
-\begin{itemize} \itemsep -2pt % reduce space between items
-\item Utilizing basic Microbiology techniques to test potential drug candidates on common and drug resistant bacterial cell lines
-\end{itemize}
+Advised by Dr. Snezna Rogelj\\
+ Utilized microbiological techniques to test potential drug candidates on common and drug resistant bacterial cell lines in a BSL3 lab
 
- {\bf Student Research Assistant}
+
+ {\bf Student Researcher}
  Medicinal Chemistry in Chemistry Department of NMT\\
  February 2014 - Present\\
- Advised by Dr. Liliya Frolova
- \begin{itemize} \itemsep -2pt  % reduce space between items
- \item Conduct synthetic organic chemistry reactions for drug discovery
- \item Experiment in novel chemistry with metalorganic chemistry emphasis
- \end{itemize}
+ Advised by Dr. Liliya Frolova\\
+ Conducted synthetic organic and metalorganic chemistry to create novel drugs
+
  
-{\bf Student Research Assistant}
+{\bf Student Researcher}
  Center for Leadership in Technology Commercialization at NMT\\
  January 2014 - Present\\
- Advised by Dr. Peter Anselmo
-\begin{itemize} \itemsep -2pt %reduce space between items
-\item Customized plans for patenting, licensing, and selling inventions utilizing market research
-\item Work on a diverse team to accomplish the goal of commercializing scientific inventions
-\end{itemize}
+ Advised by Dr. Peter Anselmo\\
+ Worked on multidisciplinary team for systematically commercializing NMT inventions
+
 
 {\bf Student Administrative Assistant}
 Joseph R Skeen Library NMT\\
  August 2012 - March 2014\\
- Advised by Dr. Lisa Beinhoff             
- \begin{itemize} \itemsep -2pt % reduce space between items
-  \item  Designed and implemented new organizational system for Library finances, while demonstrated excellent interpersonal and organizational skills
-  \end{itemize}
+ Advised by Dr. Lisa Beinhoff\\             
+  Designed and implemented new organizational system for Library finances
+
 
 \section{Leadership   Activities} 
                {\bf Founder and President} Share the Spirit Club NMT, Socorro, NM \\
 	 Octoboer 2013 - Present
-                \begin{itemize} \itemsep -2pt % reduce space between items
-              \item Organizing and conducting community service activities (Clothing Drives, Food Drives, Mentoring Children at Presbyterian Medical Services, Volunteering at New Mexico Science Olympiad, Volunteering at New Mexico State Science Fair)
-  \end{itemize}
- 
+                Organizing community service activities (Clothing/Food Drives, Mentoring Children, Volunteering at New Mexico Science Olympiad and New Mexico State Science Fair)
 
-\section{Computer \\ Skills}
-  
-    {\bf Languages} \LaTeX  \\
-     {\bf Software} Proficient in Microsoft Office 
+
+
 
 
 \end{resume} 
+\end{nobreaker}
 \end{document} 
 
 
