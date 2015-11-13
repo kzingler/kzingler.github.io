@@ -3,7 +3,7 @@ layout: page
 title: Experience
 permalink: /experience/
 ---
-    [**My Resume**](../assets/resumekzing.pdf)  
+[**My Resume**](../assets/resumekzing.pdf)  
 
 1. **Center for Leadership in Technology Commericialization**  
 **Skills:** Market research, commercialization strategy and techniques, 
