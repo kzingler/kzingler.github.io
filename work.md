@@ -17,7 +17,7 @@ communication and partnership with patent attorneys.
 **Skills:** Synthetic organic chemistry, metalorganic chemistry, novel drug 
 synthesis, thin layer chromatography, flash chromatography, 
 column chromatrography, and NMR (proton and carbon).  
-Project: Maintance of lead drug family of diversly functionalized
+**Project:** Maintance of lead drug family of diversly functionalized
 indole based compounds. Synthesis of novel members containing
 highly electron donor groups.
 
