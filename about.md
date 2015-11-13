@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-My name is Kailee Zingler Van Why.
+My name is Kailee Zingler.
 
 I'm currently an undergraduate at the [New Mexico Institute of Mining and
 Technology](https://en.wikipedia.org/wiki/New_Mexico_Institute_of_Mining_and_Technology).
