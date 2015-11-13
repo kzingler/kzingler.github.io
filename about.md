@@ -5,7 +5,7 @@ permalink: /about/
 ---
 My name is Kailee Zingler.
 
-I'm currently an undergraduate at the [New Mexico Institute of Mining and
+I am an undergraduate at the [New Mexico Institute of Mining and
 Technology](https://en.wikipedia.org/wiki/New_Mexico_Institute_of_Mining_and_Technology).
 I will receive my BS in Biology in May of 2016.
 
