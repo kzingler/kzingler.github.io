@@ -10,10 +10,14 @@ patent law, licensing of pharmaceuticals, partnering with big
 pharmaceutical companies, funding searches, and networking. 
 
 2. **Frolova Lab New Mexico Tech Chemistry Department**  
-Synthetic organic chemistry, metalorganic chemistry, thin 
-layer chromatography, flash chromatography, column chromatrography, 
-NMR (proton and carbon),  
+Synthetic organic chemistry, metalorganic chemistry, novel drug 
+synthesis, thin layer chromatography, flash chromatography, 
+column chromatrography, and NMR (proton and carbon).
 
 3. **Rogelj Lab New Mexico Tech Biology Department**  
-BSL3 level lab practices, pathogenic bacterial drug testing,
+BSL3 level lab experience, pathogenic bacterial culture, aseptic 
+technique, quadrant streak for isolation, drip streak, dilution 
+series, dilution to extinction, drug testing (synergy, photo 
+dynamic therapy, minimum inhibitory concentration), assays 
+(MTT, resazurin), and plate counting.
 
