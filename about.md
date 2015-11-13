@@ -24,5 +24,5 @@ conducting Antibacterial Drug Discovery using a broad range of microbial
 techniques testing on various bacterial cell lines.
 
 My professional aspiration is to attend graduate school in Medicinal
-Microbiology in the hopes of using my broad background of knowledge to help the
-world deal with the largest threat to health in the modern world, superbugs.
+Microbiology. I hope to to play a role in dealing with the largest 
+threat to health in the modern world, superbugs.
