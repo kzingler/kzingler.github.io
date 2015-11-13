@@ -23,6 +23,6 @@ Department](http://infohost.nmt.edu/~biology/) under Dr. Snezna Rogelj
 conducting antibacterial drug discovery using a broad range of microbial
 techniques testing on various bacterial cell lines.
 
-My professional aspiration is to attend graduate school in Medicinal
-Microbiology. I hope to to play a role in dealing with the largest 
+My professional aspiration is to attend graduate school in bacteriology. 
+I hope to to play a role in dealing with the largest 
 threat to health in the modern world, superbugs.
