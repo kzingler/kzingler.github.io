@@ -10,7 +10,7 @@ Technology](https://en.wikipedia.org/wiki/New_Mexico_Institute_of_Mining_and_Tec
 I will receive my BS in Biology in May of 2016.
 
 I'm currently involved in three separate undergraduate research ventures.  Since
-January of 2013, I have been working at the [Center for Leadership in Technology
+January of 2014, I have been working at the [Center for Leadership in Technology
 Commercialization (CLTC)](http://management.nmt.edu/cltc/) under Dr. Peter
 Anselmo on market research, patent law and language, business plans,
 commercialization of medical technology, and intellectual property law.
