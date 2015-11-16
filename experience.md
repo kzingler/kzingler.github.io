@@ -5,6 +5,7 @@ permalink: /experience/
 ---  
 
 1. **Center for Leadership in Technology Commericialization**  
+Jan 2014 - Present  
 **Skills:** Market research, commercialization strategy and techniques, 
 patent law, licensing of pharmaceuticals, partnering with big 
 pharmaceutical companies, funding searches, and networking.  
@@ -14,6 +15,7 @@ bringing biopharmaceuticals through phase 1 in house. Creation of
 communication and partnership with patent attorneys. 
 
 2. **Frolova Lab New Mexico Tech Chemistry Department**  
+Feb 2014 - Present  
 **Skills:** Synthetic organic chemistry, metalorganic chemistry, novel drug 
 synthesis, thin layer chromatography, flash chromatography, 
 column chromatrography, and NMR (proton and carbon).  
@@ -22,6 +24,7 @@ indole based compounds. Synthesis of novel members containing
 highly electron donor groups.
 
 3. **Rogelj Lab New Mexico Tech Biology Department**  
+Jan 2015 - Present  
 **Skills:** BSL3 level lab experience, pathogenic bacterial culture, aseptic 
 technique, quadrant streak for isolation, drip streak, dilution 
 series, dilution to extinction, drug testing (synergy, photo 
