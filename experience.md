@@ -25,7 +25,7 @@ highly electron donor groups.
 
 3. **Rogelj Lab New Mexico Tech Biology Department**  
 Jan 2015 - Present  
-**Skills:** BSL3 level lab experience, pathogenic bacterial culture, aseptic 
+**Skills:** BSL2 level lab experience, pathogenic bacterial culture, aseptic 
 technique, quadrant streak for isolation, drip streak, dilution 
 series, dilution to extinction, drug testing (synergy, photo 
 dynamic therapy, minimum inhibitory concentration), assays 
