@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Work
-permalink: /work/
+title: Resume
+permalink: /resume/
 ---
 
 [**My Resume**](../assets/resumekzing.pdf)  
-[Writing Sample](../assets/Bio352 Final.pdf)
+
 
