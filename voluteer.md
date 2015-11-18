@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Extra Curriculars
+title: Interests
 permalink: /extracurrics/
 ---
   
@@ -18,10 +18,13 @@ Member January 2014 - Present
 Aided in large fundraisers and events to make backpacks full of supplies
 for local homeless population.  
 
-**Interests**  
-1. Spinning  
-January 2013 - Present  
+**Hobbies**  
+1. Baking  
+December 2004 - Present    
 2. Yoga  
-August 2008 - Present  
+August 2008 - Present     
+3. Spinning  
+January 2013 - Present  
+ 
 
 
