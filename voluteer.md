@@ -19,11 +19,13 @@ Aided in large fundraisers and events to make backpacks full of supplies
 for local homeless population.  
 
 **Hobbies**  
-1. Baking  
+1. Lyric Memorizer Extraordinaire
+December 9, 1993 - Present  
+2. Baking  
 December 2004 - Present    
-2. Yoga  
+3. Yoga  
 August 2008 - Present     
-3. Spinning  
+4. Spinning  
 January 2013 - Present  
  
 
