@@ -5,7 +5,7 @@ permalink: /contact/
 ---
 
 #Email
-<kzingler@nmt.edu>
+<kzingler@nmt.edu>  
 <kaileevzingler@gmail.com>
 
 #Phone
