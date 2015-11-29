@@ -1,7 +1,7 @@
 # Site settings
 title: Kailee Zingler
 email: kzingler@nmt.edu
-description: **Self proclaimed spokeswoman for bacterial rights**
+description: Self proclaimed spokeswoman for bacterial rights
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://kvzvanwhy.me" # the base hostname & protocol for your site
 twitter_username:
