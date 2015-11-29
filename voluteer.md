@@ -20,13 +20,13 @@ for local homeless population.
 
 **Hobbies**  
 1. Lyric Memorizer Extraordinaire
-December 9, 1993 - Present  
+12/09/1993 - Present  
 2. Baking  
-December 2004 - Present    
+12/2004 - Present    
 3. Yoga  
-August 2008 - Present     
+08/2008 - Present     
 4. Spinning  
-January 2013 - Present  
+01/2013 - Present  
  
 
 
