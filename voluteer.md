@@ -19,7 +19,7 @@ Aided in large fundraisers and events to make backpacks full of supplies
 for local homeless population.  
 
 **Hobbies**  
-1. Lyric Memorizer Extraordinaire
+1. Lyric Memorizer Extraordinaire  
 12/09/1993 - Present  
 2. Baking  
 12/2004 - Present    
