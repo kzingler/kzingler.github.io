@@ -4,6 +4,6 @@ title: Resume
 permalink: /resume/
 ---
 
-[**My Resume**](../assets/resumekzing.pdf)  
+[**My Resume**](../assets/kzing_resume.pdf)  
 
 
