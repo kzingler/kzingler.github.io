@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-#Email
+Email
 School:<kzingler@nmt.edu>  
 Personal:<kaileevzingler@gmail.com>
 
