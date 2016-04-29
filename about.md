@@ -7,7 +7,7 @@ My name is Kailee Zingler.
 
 I am an undergraduate at the [New Mexico Institute of Mining and
 Technology](https://en.wikipedia.org/wiki/New_Mexico_Institute_of_Mining_and_Technology).
-I will receive my BS in Biology in May of 2016.
+I will receive my BS in Biology in May of 2016. I will then be moving to Chicago, Il.
 
 I'm currently involved in three separate undergraduate research ventures.  Since
 January of 2014, I have been working at the [Center for Leadership in Technology
