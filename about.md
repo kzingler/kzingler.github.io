@@ -9,7 +9,8 @@ I am an undergraduate at the [New Mexico Institute of Mining and
 Technology](https://en.wikipedia.org/wiki/New_Mexico_Institute_of_Mining_and_Technology).
 I will receive my BS in Biology in May of 2016. I will then be moving to Chicago, Il.
 
-I'm currently involved in three separate undergraduate research ventures.  Since
+I am a recent graduate from New Mexico Tech, magnan cum laude, with my Bachelors of Science
+in Biology. During my undergraduate years I was involved in three separate undergraduate research ventures.  Since
 January of 2014, I have been working at the [Center for Leadership in Technology
 Commercialization (CLTC)](http://management.nmt.edu/cltc/) under Dr. Peter
 Anselmo on market research, patent law and language, business plans,
@@ -23,6 +24,6 @@ Department](http://infohost.nmt.edu/~biology/) under Dr. Snezna Rogelj
 conducting antibacterial drug discovery using a broad range of microbial
 techniques testing on various bacterial cell lines.
 
-My professional aspiration is to attend Law School and focus on patent and health law. 
+My professional aspiration is to attend Law School and focus on patent and healthcare policy law. 
 I hope to someday play an important role in making novel and safe medicines and treatments
 more readily available to everyone.
