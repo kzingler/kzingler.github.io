@@ -5,12 +5,12 @@ permalink: /about/
 ---
 My name is Kailee Zingler.
 
-I am an undergraduate at the [New Mexico Institute of Mining and
-Technology](https://en.wikipedia.org/wiki/New_Mexico_Institute_of_Mining_and_Technology).
-I will receive my BS in Biology in May of 2016. I will then be moving to Chicago, Il.
+I am a recent graduate from New Mexico Tech [New Mexico Institute of Mining and
+Technology](https://en.wikipedia.org/wiki/New_Mexico_Institute_of_Mining_and_Technology), 
+magnan cum laude, with my Bachelors of Science
+in Biology. I will be moving to Chicago, Il in July of 2016.
 
-I am a recent graduate from New Mexico Tech, magnan cum laude, with my Bachelors of Science
-in Biology. During my undergraduate years I was involved in three separate undergraduate research ventures.  Since
+During my undergraduate years I was involved in three separate undergraduate research ventures.  Since
 January of 2014, I have been working at the [Center for Leadership in Technology
 Commercialization (CLTC)](http://management.nmt.edu/cltc/) under Dr. Peter
 Anselmo on market research, patent law and language, business plans,
