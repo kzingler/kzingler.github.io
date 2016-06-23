@@ -5,8 +5,7 @@ permalink: /contact/
 ---
 
 Email
-School:<kzingler@nmt.edu>  
-Personal:<kaileevzingler@gmail.com>
+<kaileevzingler@gmail.com>
 
-#Phone
-505-610-2907
+Phone
+847-749-5580
