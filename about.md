@@ -24,6 +24,5 @@ Department](http://infohost.nmt.edu/~biology/) under Dr. Snezna Rogelj
 conducting antibacterial drug discovery using a broad range of microbial
 techniques testing on various bacterial cell lines.
 
-My professional aspiration is to attend Law School and focus on patent and healthcare policy law. 
-I hope to someday play an important role in making novel and safe medicines and treatments
-more readily available to everyone.
+My professional aspiration is to become a manager for an industry lab. 
+I hope to someday play an important role in fostering teamwork and organization practices to better medicinal and healthcare related research.
