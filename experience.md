@@ -36,16 +36,15 @@ Mexico Tech to market. Specifically, implementing techniques for
 bringing biopharmaceuticals through phase 1 in house. Creation of 
 communication and partnership with patent attorneys. 
 
-4. **Joseph R Skeen Libary**
-Aug 2012 - Feb 2014
+4. **Joseph R Skeen Libary**  
+Aug 2012 - Feb 2014  
 **Skills:** Balancing Budgets, filing confidential budget information, 
 filing confidential time-sheets and employee information, inventing organization for files,
-answering phones, maintaining business relationships, and handling customer service situations.
-**Profect:** Handling all office supply and other orders for the library. Taking care to file 
+answering phones, maintaining business relationships, and handling customer service situations.  
+**Project:** Handling all office supply and other orders for the library. Taking care to file 
 employee information and time-sheets in a timely and organized fashion. Designing and implementing a novel
 system for filing library subscription and budget information. Handling and directing business calls. Active in
 customer service situations to maintain business and professional relationships.
-
 
 
 
