@@ -4,27 +4,8 @@ title: Experience
 permalink: /experience/
 ---  
 
-1. **Center for Leadership in Technology Commericialization**  
-Jan 2014 - Present  
-**Skills:** Market research, commercialization strategy and techniques, 
-patent law, licensing of pharmaceuticals, partnering with big 
-pharmaceutical companies, funding searches, and networking.  
-**Project:** Design for novel process to bring inventions from New 
-Mexico Tech to market. Specifically, implementing techniques for
-bringing biopharmaceuticals through phase 1 in house. Creation of 
-communication and partnership with patent attorneys. 
-
-2. **Frolova Lab New Mexico Tech Chemistry Department**  
-Feb 2014 - Present  
-**Skills:** Synthetic organic chemistry, metalorganic chemistry, novel drug 
-synthesis, thin layer chromatography, flash chromatography, 
-column chromatrography, and NMR (proton and carbon).  
-**Project:** Maintance of lead drug family of diversly functionalized
-indole based compounds. Synthesis of novel members containing
-highly electron donor groups.
-
-3. **Rogelj Lab New Mexico Tech Biology Department**  
-Jan 2015 - Present  
+1. **Rogelj Lab New Mexico Tech Biology Department**  
+Jan 2015 - May 2016  
 **Skills:** BSL2 level lab experience, pathogenic bacterial culture, aseptic 
 technique, quadrant streak for isolation, drip streak, dilution 
 series, dilution to extinction, drug testing (synergy, photo 
@@ -35,6 +16,37 @@ dynamic therapy, minimum inhibitory concentration), assays
 tests conducted are for photo dynamic therapuetic effects,
 minimum inhibitory concentrations, and synergy with common drugs
 already on the market.
+
+2. **Frolova Lab New Mexico Tech Chemistry Department**  
+Feb 2014 - May 2016  
+**Skills:** Synthetic organic chemistry, metalorganic chemistry, novel drug 
+synthesis, thin layer chromatography, flash chromatography, 
+column chromatrography, and NMR (proton and carbon).  
+**Project:** Maintance of lead drug family of diversly functionalized
+indole based compounds. Synthesis of novel members containing
+highly electron donor groups.
+
+3. **Center for Leadership in Technology Commericialization**  
+Jan 2014 - May 2016  
+**Skills:** Market research, commercialization strategy and techniques, 
+patent law, licensing of pharmaceuticals, partnering with big 
+pharmaceutical companies, funding searches, and networking.  
+**Project:** Design for novel process to bring inventions from New 
+Mexico Tech to market. Specifically, implementing techniques for
+bringing biopharmaceuticals through phase 1 in house. Creation of 
+communication and partnership with patent attorneys. 
+
+4. **Joseph R Skeen Libary**
+Aug 2012 - Feb 2014
+**Skills:** Balancing Budgets, filing confidential budget information, 
+filing confidential time-sheets and employee information, inventing organization for files,
+answering phones, maintaining business relationships, and handling customer service situations.
+**Profect:** Handling all office supply and other orders for the library. Taking care to file 
+employee information and time-sheets in a timely and organized fashion. Designing and implementing a novel
+system for filing library subscription and budget information. Handling and directing business calls. Active in
+customer service situations to maintain business and professional relationships.
+
+
 
 
 
