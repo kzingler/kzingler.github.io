@@ -8,7 +8,7 @@ My name is Kailee Zingler.
 I am a recent graduate from New Mexico Tech [New Mexico Institute of Mining and
 Technology](https://en.wikipedia.org/wiki/New_Mexico_Institute_of_Mining_and_Technology), 
 magnan cum laude, with my Bachelors of Science
-in Biology. I will be moving to Chicago, Il in July of 2016.
+in Biology. I moved to Chicago, Il, from Socorro, NM in July of 2016.
 
 During my undergraduate years I was involved in three separate undergraduate research ventures.  Since
 January of 2014, I have been working at the [Center for Leadership in Technology
