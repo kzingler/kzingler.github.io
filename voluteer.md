@@ -27,6 +27,7 @@ for local homeless population.
 08/2008 - Present     
 4. Spinning  
 01/2013 - Present  
+Fitness Level: Elite (As proclaimed by an eliptical in my gym!)
  
 
 
