@@ -34,7 +34,7 @@ for local homeless population.
 5. Zumba
 03/2017 - Present
 
-Fitness Level: Elite (As proclaimed by an eliptical in my gym!)
+Fitness Level: Elite (As proclaimed by an elliptical in my gym!)
  
 
 

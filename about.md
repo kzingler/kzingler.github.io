@@ -11,7 +11,7 @@ I also work for the [University of Chicago](https://en.wikipedia.org/wiki/Univer
 
 In May 2016 I graduated from New Mexico Tech [New Mexico Institute of Mining and
 Technology](https://en.wikipedia.org/wiki/New_Mexico_Institute_of_Mining_and_Technology), 
-magnan cum laude, with my Bachelors of Science
+magna cum laude, with my Bachelors of Science
 in Biology.
 
 During my undergraduate years I was involved in three separate undergraduate research ventures.  From
