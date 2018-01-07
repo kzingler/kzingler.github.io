@@ -31,7 +31,7 @@ for local homeless population.
 08/2008 - Present     
 4. Spinning  
 01/2013 - Present  
-5. Zumba
+5. Zumba   
 03/2017 - Present
 
 Fitness Level: Elite (As proclaimed by an elliptical in my gym!)
