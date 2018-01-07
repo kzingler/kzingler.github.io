@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-US Patent Number: 9834514 ``Antibiotic sensitivity-restoring and photosensitive agents''
+[US Patent Number: 9834514 ``Antibiotic sensitivity-restoring and photosensitive agents''](https://patents.justia.com/patent/9834514)
 
 [Visualization of Next-Generation Sequencing of Brain Cancer Gene Expression 10/2014](../assets/bioinformatics.pdf)
 
