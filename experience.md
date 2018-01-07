@@ -4,10 +4,10 @@ title: Experience
 permalink: /experience/
 ---  
 
-1. **University of Chicago BSD Office of Clinical Research**
-August 2016 - Present
+1. **University of Chicago BSD Office of Clinical Research**                 
+August 2016 - Present  
 **Skills:** Epic, EHRs, Clinical Trial Budgeting, National Clinical Trial Registration,
-Managed Care Cost Accounting, Multi-project Management
+Managed Care Cost Accounting, Multi-project Management  
 **Responsibility:** Creation of billing documents for research charge 
 review within Epic, pre-review new clinical research studies for billing 
 compliance. Manage projects for confidential medical record numbers as well 
