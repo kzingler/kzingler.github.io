@@ -5,10 +5,14 @@ permalink: /about/
 ---
 My name is Kailee Zingler.
 
-I am a recent graduate from New Mexico Tech [New Mexico Institute of Mining and
+I am currently a graduate student in the Biomedical Informatics Program at the University of Chicago.
+I also work for the University of Chicago Biological Sciences Division as a Financial Analyst in the
+Office of Clinical Research.
+
+In May 2016 I graduated from New Mexico Tech [New Mexico Institute of Mining and
 Technology](https://en.wikipedia.org/wiki/New_Mexico_Institute_of_Mining_and_Technology), 
 magnan cum laude, with my Bachelors of Science
-in Biology. I moved to Chicago, Il, from Socorro, NM in July of 2016.
+in Biology.
 
 During my undergraduate years I was involved in three separate undergraduate research ventures.  From
 January of 2014, I had been working at the [Center for Leadership in Technology
@@ -24,5 +28,3 @@ Department](http://infohost.nmt.edu/~biology/) under Dr. Snezna Rogelj. There
 I conducted antibacterial drug discovery utilizing a broad range of microbial
 techniques to test our drugs on various bacterial cell lines.
 
-My professional aspiration is to become a manager for an industry lab. 
-I hope to someday play an important role in fostering teamwork and organization practices to better medicinal and healthcare related research.

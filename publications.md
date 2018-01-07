@@ -4,6 +4,8 @@ title: Publications
 permalink: /publications/
 ---
 
+US Patent Number: 9834514 ``Antibiotic sensitivity-restoring and photosensitive agents''
+
 [Visualization of Next-Generation Sequencing of Brain Cancer Gene Expression 10/2014](../assets/bioinformatics.pdf)
 
 [Center for Leadership in Technology Commercialization 10/2014](../assets/cltc.pdf)
