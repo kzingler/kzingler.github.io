@@ -5,9 +5,9 @@ permalink: /about/
 ---
 My name is Kailee Zingler.
 
-I am currently a graduate student in the Biomedical Informatics Program at the University of Chicago.
+I am currently a graduate student in the [MSc. in Biomedical Informatics](https://grahamschool.uchicago.edu/academic-programs/masters-degrees/biomedical-informatics) program at the University of Chicago.
 I also work for the University of Chicago Biological Sciences Division as a Financial Analyst in the
-Office of Clinical Research.
+[Office of Clinical Research](http://bsdocr.bsd.uchicago.edu).
 
 In May 2016 I graduated from New Mexico Tech [New Mexico Institute of Mining and
 Technology](https://en.wikipedia.org/wiki/New_Mexico_Institute_of_Mining_and_Technology), 
