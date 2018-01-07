@@ -5,8 +5,8 @@ permalink: /extracurrics/
 ---
   
 **Volunteering**  
-1. Hyde Park Cats
-September 2017 - Present
+1. Hyde Park Cats   
+September 2017 - Present   
 Reference checks of potential adopters and fosterer's, fund-raising,
 event planning
 2. Founder and President of Share the Spirit Club  
