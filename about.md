@@ -7,7 +7,7 @@ My name is Kailee Zingler.
 
 I am currently a graduate student in the [MSc. in Biomedical Informatics](https://grahamschool.uchicago.edu/academic-programs/masters-degrees/biomedical-informatics) program at the University of Chicago.
 I also work for the [University of Chicago](https://en.wikipedia.org/wiki/University_of_Chicago) Biological Sciences Division as a Financial Analyst in the
-[Office of Clinical Research](http://bsdocr.bsd.uchicago.edu).
+[Office of Clinical Research](http://bsdocr.bsd.uchicago.edu). I carry out research billing review in Epic. I review clinical trial billing and budget documents and review for compliance.
 
 In May 2016 I graduated from New Mexico Tech [New Mexico Institute of Mining and
 Technology](https://en.wikipedia.org/wiki/New_Mexico_Institute_of_Mining_and_Technology), 
@@ -21,8 +21,7 @@ Anselmo doing market research, researching patent law and FDA regulations, helpi
 working towards commercialization of medical technology and intellectual property created at New Mexico Tech.
 I began research with the [Chemistry
 Department](http://infohost.nmt.edu/~chem/) in February of 2014 under Dr. Liliya Frolova in
-synthetic organic and metalorganic medicinal chemistry and drug discovery. Most
-recently, I conducted research on what I believe to be my strongest passion; I started
+synthetic organic and metalorganic medicinal chemistry and drug discovery. I started
 working in January of 2015 with the [Biology
 Department](http://infohost.nmt.edu/~biology/) under Dr. Snezna Rogelj. There
 I conducted antibacterial drug discovery utilizing a broad range of microbial
