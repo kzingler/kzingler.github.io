@@ -7,7 +7,7 @@ My name is Kailee Zingler.
 
 I am currently a graduate student in the [MSc. in Biomedical Informatics](https://grahamschool.uchicago.edu/academic-programs/masters-degrees/biomedical-informatics) program at the University of Chicago.
 I also work for the [University of Chicago](https://en.wikipedia.org/wiki/University_of_Chicago) Biological Sciences Division as a Financial Analyst in the
-[Office of Clinical Research](http://bsdocr.bsd.uchicago.edu). I carry out research billing review in Epic. I review clinical trial billing and budget documents and review for compliance.
+[Office of Clinical Research](http://bsdocr.bsd.uchicago.edu). 
 
 In May 2016 I graduated from New Mexico Tech [New Mexico Institute of Mining and
 Technology](https://en.wikipedia.org/wiki/New_Mexico_Institute_of_Mining_and_Technology), 
