@@ -7,8 +7,7 @@ permalink: /experience/
 1. **University of Chicago Medicine BSD Gastroenterology**  
 January 2019 - Present  
 **Skills:** Grants, Contracts, Budgets, GCP  
-**Responsibility:** Act as the Research Manager for the Chang Lab  
-in the Digestive Diseases Research Core Center.
+**Responsibility:** Act as the Research Manager for the Chang Lab in the Digestive Diseases Research Core Center.
 
 
 2. **University of Chicago BSD Office of Clinical Research**                 

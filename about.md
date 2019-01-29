@@ -5,13 +5,12 @@ permalink: /about/
 ---
 My name is Kailee Zingler.  
 
-In January 2019, I began work as a Research Manager for the [Digestive Diseases Research Core Center](http://www.uchicagoddrcc.org/research-cores) for [Dr. Eugene Chang's Lab](https://changlab.uchicago.edu)  
-in the Gastroenterology Department of the [University of Chicago Medicine](https://en.wikipedia.org/wiki/University_of_Chicago_Medical_Center).
+In January 2019, I began work as a Research Manager for the [Digestive Diseases Research Core Center](http://www.uchicagoddrcc.org/research-cores) for [Dr. Eugene Chang's Lab](https://changlab.uchicago.edu) in the Gastroenterology Department of the [University of Chicago Medicine](https://en.wikipedia.org/wiki/University_of_Chicago_Medical_Center).
 
-I am a graduate of the [MSc. in Biomedical Informatics](https://grahamschool.uchicago.edu/academic-programs/masters-degrees/biomedical-informatics) program at the University of Chicago.  
+I am a December 2018 graduate of the [MSc. in Biomedical Informatics](https://grahamschool.uchicago.edu/academic-programs/masters-degrees/biomedical-informatics) program at the University of Chicago.  
 
 From August 2016 through January 2019 I worked for the [University of Chicago](https://en.wikipedia.org/wiki/University_of_Chicago) Biological Sciences Division as a Financial Analyst in the
-[Office of Clinical Research](http://bsdocr.bsd.uchicago.edu). Here I helped own Epic Research Functionality daily operations of clinical research billing as well as training of research staff.
+[Office of Clinical Research](http://bsdocr.bsd.uchicago.edu). Here, I helped own Epic Research Functionality daily operations of clinical research billing as well as training of research staff.
 
 In May 2016 I graduated from New Mexico Tech [New Mexico Institute of Mining and
 Technology](https://en.wikipedia.org/wiki/New_Mexico_Institute_of_Mining_and_Technology), 
