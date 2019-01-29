@@ -4,16 +4,24 @@ title: Experience
 permalink: /experience/
 ---  
 
-1. **University of Chicago BSD Office of Clinical Research**                 
-August 2016 - Present  
+1. **University of Chicago Medicine BSD Gastroenterology**  
+January 2019 - Present  
+**Skills:** Grants, Contracts, Budgets, GCP  
+**Responsibility:** Act as the Research Manager for the Chang Lab  
+in the Digestive Diseases Research Core Center.
+
+
+2. **University of Chicago BSD Office of Clinical Research**                 
+August 2016 - January 2019    
 **Skills:** Epic, EHRs, Clinical Trial Budgeting, National Clinical Trial Registration,
 Managed Care Cost Accounting, Multi-project Management  
 **Responsibility:** Creation of billing documents for research charge 
 review within Epic, pre-review new clinical research studies for billing 
 compliance. Manage projects for confidential medical record numbers as well 
-as keeping device studies compliant with National Government Services.
+as keeping device studies compliant with National Government Services. Lead trainings  
+for UChicago research staff on Drug Discovery and Development.
 
-2. **Rogelj Lab New Mexico Tech Biology Department**  
+3. **Rogelj Lab New Mexico Tech Biology Department**  
 Jan 2015 - May 2016  
 **Skills:** BSL2 level lab experience, pathogenic bacterial culture, aseptic 
 technique, quadrant streak for isolation, drip streak, dilution 
@@ -26,7 +34,7 @@ tests conducted are for photo dynamic therapuetic effects,
 minimum inhibitory concentrations, and synergy with common drugs
 already on the market.
 
-3. **Frolova Lab New Mexico Tech Chemistry Department**  
+4. **Frolova Lab New Mexico Tech Chemistry Department**  
 Feb 2014 - May 2016  
 **Skills:** Synthetic organic chemistry, metalorganic chemistry, novel drug 
 synthesis, thin layer chromatography, flash chromatography, 
@@ -35,7 +43,7 @@ column chromatrography, and NMR (proton and carbon).
 indole based compounds. Synthesis of novel members containing
 highly electron donor groups.
 
-4. **Center for Leadership in Technology Commericialization**  
+5. **Center for Leadership in Technology Commericialization**  
 Jan 2014 - May 2016  
 **Skills:** Market research, commercialization strategy and techniques, 
 patent law, licensing of pharmaceuticals, partnering with big 
@@ -45,7 +53,7 @@ Mexico Tech to market. Specifically, implementing techniques for
 bringing biopharmaceuticals through phase 1 in house. Creation of 
 communication and partnership with patent attorneys. 
 
-5. **Joseph R Skeen Libary**  
+6. **Joseph R Skeen Libary**  
 Aug 2012 - Feb 2014  
 **Skills:** Balancing Budgets, filing confidential budget information, 
 filing confidential time-sheets and employee information, inventing organization for files,
