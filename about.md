@@ -9,7 +9,7 @@ In January 2019, I began work as a Research Manager for the [Digestive Diseases 
 
 I am a December 2018 graduate of the [MSc. in Biomedical Informatics](https://grahamschool.uchicago.edu/academic-programs/masters-degrees/biomedical-informatics) program at the University of Chicago.  
 
-From August 2016 through January 2019 I worked for the [University of Chicago](https://en.wikipedia.org/wiki/University_of_Chicago) Biological Sciences Division as a Financial Analyst in the
+From August 2016 through January 2019, I worked for the [University of Chicago](https://en.wikipedia.org/wiki/University_of_Chicago) Biological Sciences Division as a Financial Analyst in the
 [Office of Clinical Research](http://bsdocr.bsd.uchicago.edu). Here, I helped own Epic Research Functionality daily operations of clinical research billing as well as training of research staff.
 
 In May 2016 I graduated from New Mexico Tech [New Mexico Institute of Mining and
