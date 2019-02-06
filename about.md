@@ -5,9 +5,9 @@ permalink: /about/
 ---
 My name is Kailee Zingler.  
 
-In January 2019, I began work as a Research Manager for the [Digestive Diseases Research Core Center](http://www.uchicagoddrcc.org/research-cores) for [Dr. Eugene Chang's Lab](https://changlab.uchicago.edu) in the Gastroenterology Department of the [University of Chicago Medicine](https://en.wikipedia.org/wiki/University_of_Chicago_Medical_Center).
+In January 2019, I began work as a Research Program Manager for the [Digestive Diseases Research Core Center](http://www.uchicagoddrcc.org/research-cores) as well as for [Dr. Eugene Chang's Lab](https://changlab.uchicago.edu) in the Gastroenterology Department of the [University of Chicago Medicine](https://en.wikipedia.org/wiki/University_of_Chicago_Medical_Center).
 
-I am a December 2018 graduate of the [MSc. in Biomedical Informatics](https://grahamschool.uchicago.edu/academic-programs/masters-degrees/biomedical-informatics) program at the University of Chicago.  
+I am a December 2018 graduate of the [MSc. in Biomedical Informatics](https://grahamschool.uchicago.edu/academic-programs/masters-degrees/biomedical-informatics) program at the University of Chicago. Here I received all A's in my courses and focused my attention on Population Health Informatics. My Thesis was titled, The Feasibility of Utilizing EHR Data to Supplant Survey Data Collection: A Case Study. 
 
 From August 2016 through January 2019, I worked for the [University of Chicago](https://en.wikipedia.org/wiki/University_of_Chicago) Biological Sciences Division as a Financial Analyst in the
 [Office of Clinical Research](http://bsdocr.bsd.uchicago.edu). Here, I helped own Epic Research Functionality daily operations of clinical research billing as well as training of research staff.
