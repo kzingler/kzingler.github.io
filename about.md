@@ -17,7 +17,7 @@ Technology](https://en.wikipedia.org/wiki/New_Mexico_Institute_of_Mining_and_Tec
 magna cum laude, with my Bachelors of Science
 in Biology.
 
-During my undergraduate years I was involved in three separate undergraduate research ventures.  From
+During my undergraduate years I was involved in three separate research ventures.  From
 January of 2014, I worked in initial stages of the [Center for Leadership in Technology
 Commercialization (CLTC)](http://management.nmt.edu/cltc/) under Dr. Peter
 Anselmo doing market research, researching patent law and FDA regulations, helping to draft business plans,
