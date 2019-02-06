@@ -18,17 +18,15 @@ magna cum laude, with my Bachelors of Science
 in Biology.
 
 During my undergraduate years I was involved in three separate undergraduate research ventures.  From
-January of 2014, I had been working at the [Center for Leadership in Technology
+January of 2014, I working at the [Center for Leadership in Technology
 Commercialization (CLTC)](http://management.nmt.edu/cltc/) under Dr. Peter
 Anselmo doing market research, researching patent law and FDA regulations, helping to draft business plans,
 working towards commercialization of medical technology and intellectual property created at New Mexico Tech.
 I began research with the [Chemistry
 Department](http://infohost.nmt.edu/~chem/) in February of 2014 under Dr. Liliya Frolova in
-synthetic organic and metalorganic medicinal chemistry and drug discovery. I started
-working in January of 2015 with the [Biology
-Department](http://infohost.nmt.edu/~biology/) under Dr. Snezna Rogelj. There
-I conducted antibacterial drug discovery utilizing a broad range of microbial
-techniques to test our drugs on various bacterial cell lines.     
+synthetic organic and metalorganic medicinal chemistry and drug discovery. Starting in January of 2015, I conducted 
+antibacterial to test our drug candidates on various bacterial cell lines with the [Biology
+Department](http://infohost.nmt.edu/~biology/) under Dr. Snezna Rogelj.     
 
 In May of 2012 I graduated Salutatorian from the Albuquerque Institute for Mathematics and Science (AIMS@UNM).
 
