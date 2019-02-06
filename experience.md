@@ -17,7 +17,7 @@ Managed Care Cost Accounting, Multi-project Management
 **Responsibility:** Creation of billing documents for research charge 
 review within Epic, pre-review new clinical research studies for billing 
 compliance. Manage projects for confidential medical record numbers as well 
-as keeping device studies compliant with National Government Services. Lead trainings  
+as keeping device studies compliant with National Government Services. Lead trainings 
 for UChicago research staff on Drug Discovery and Development.
 
 3. **Student Research Assistant - Rogelj Lab New Mexico Tech Biology Department**  
