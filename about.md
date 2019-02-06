@@ -25,7 +25,7 @@ working towards commercialization of medical technology and intellectual propert
 I began research with the [Chemistry
 Department](http://infohost.nmt.edu/~chem/) in February of 2014 under Dr. Liliya Frolova in
 synthetic organic and metalorganic medicinal chemistry and drug discovery. Starting in January of 2015, I conducted 
-antibacterial to test our drug candidates on various bacterial cell lines with the [Biology
+microbiological testing of our drug candidates on various bacterial cell lines with the [Biology
 Department](http://infohost.nmt.edu/~biology/) under Dr. Snezna Rogelj.     
 
 In May of 2012 I graduated Salutatorian from the Albuquerque Institute for Mathematics and Science (AIMS@UNM).
