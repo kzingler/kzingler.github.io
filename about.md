@@ -28,5 +28,7 @@ synthetic organic and metalorganic medicinal chemistry and drug discovery. I sta
 working in January of 2015 with the [Biology
 Department](http://infohost.nmt.edu/~biology/) under Dr. Snezna Rogelj. There
 I conducted antibacterial drug discovery utilizing a broad range of microbial
-techniques to test our drugs on various bacterial cell lines.
+techniques to test our drugs on various bacterial cell lines.     
+
+In May of 2012 I graduated Salutatorian from the Albuquerque Institute for Mathematics and Science (AIMS@UNM).
 
