@@ -28,5 +28,5 @@ synthetic organic and metalorganic medicinal chemistry and drug discovery. Start
 microbiological testing of our drug candidates on various bacterial cell lines with the [Biology
 Department](http://infohost.nmt.edu/~biology/) under Dr. Snezna Rogelj.     
 
-In May of 2012 I graduated Salutatorian from the Albuquerque Institute for Mathematics and Science (AIMS@UNM).
+In May of 2012 I graduated Salutatorian from the [Albuquerque Institute for Mathematics and Science (AIMS@UNM)](http://www.aims-unm.org).
 
