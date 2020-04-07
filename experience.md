@@ -3,10 +3,10 @@ layout: page
 title: Experience
 permalink: /experience/
 ---  
-1. **Senior Compliance Administrator - University of Chicago, University Research Administration**  
-February 2020 - Present  
-**Skills:** Financial Conflicts of Interest, Conflicts of Commitment, Foreign Influence, Research Compliance  
-**Responsibility:** Responsible for a variety of compliance activities relating to researchers across the university
+1. **Senior Compliance Administrator - University of Chicago, University Research Administration**    
+February 2020 - Present      
+**Skills:** Financial Conflicts of Interest, Conflicts of Commitment, Foreign Influence, Research Compliance       
+**Responsibility:** Responsible for a variety of compliance activities relating to researchers across the university   
 
 
 2. **Research Program Manager - University of Chicago Medicine BSD Gastroenterology**  
