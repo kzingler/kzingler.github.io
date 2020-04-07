@@ -5,7 +5,7 @@ permalink: /about/
 ---
 My name is Kailee Zingler.  
 
-As of February 2020, I am now the Senior Compliance Administrator for the University of Chicago's [University Research Administration] (https://ura.uchicago.edu) conflict of interest team.
+As of February 2020, I am now the Senior Compliance Administrator for the University of Chicago's [University Research Administration](https://ura.uchicago.edu) conflict of interest team.
 Here, I manage a variety of compliance tasks relating to financial conflicts of interest, conflicts of commitment, and foreign influence on university research.
 
 From January 2019 through April 2020, I worked as the Research Program Manager for the [Digestive Diseases Research Core Center](http://www.uchicagoddrcc.org/research-cores) as well as for [Dr. Eugene Chang's Lab](https://changlab.uchicago.edu) in the Gastroenterology Department of the [University of Chicago Medicine](https://en.wikipedia.org/wiki/University_of_Chicago_Medical_Center).
