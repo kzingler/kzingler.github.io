@@ -34,7 +34,7 @@ for UChicago research staff on Drug Discovery and Development.
 5. **Graduated magna cum laude with a Bachelors of Science in Biology from the New Mexico Institute of Mining and Technology**     
 August 2012 - May 2016      
 **Skills:** Molecular and Cellular Biology Laboratory Techniques and Organic Chemistry Laboratory Techniques.     
-**Courses:** General Biology 1 and 2, General Chemistry 1 and 2, Calculus 1 and 2, Organic Chemistry 1 and 2, Genetics, Cell Biology, 
+**Courses:** General Biology 1 and 2, General Chemistry 1 and 2, Calculus 1 and 2, Organic Chemistry 1 and 2, Genetics, Cell Biology,
 College Writing 2, Applied Statistics, Molecular Biology, Technology Forecast and Strategy, General Physics 1 and 2, Directed Research, 
 Technical Writing, Microbiology, Anatomy and Physiology 1 and 2, Bioinformatics, Biochemistry 1, Environmental Microbiology, Anti Microbial 
 Drug Discovery, Quantitative Analysis, Chemistry of Main Group Elements, Freestyle Biosciences, Biomedical Physiology and Engineering, Cell 
