@@ -17,7 +17,9 @@ January 2019 - April 2020
 3. **Graduated from the University of Chicago's Masters of Science in Biomedical Informatics**     
 September 2018 - December 2019      
 **Skills:** Python, R, SQL, SAS, and Technical Writing.        
-**Courses:** Introduction to Biomedical Informatics, Concepts in Computer Programming, Leadership and Management for Informatics, Decisions Support Systems and Healthcare, Ethics and Policy Questions: Genomics, Healthcare, and Big Data, Population Health Informatics, Applied Research and Clinical Informatics, Healthcare Innovation and Entrepreneurship, Advanced Concepts in Computer Programming.     
+**Courses:** Introduction to Biomedical Informatics, Concepts in Computer Programming, Leadership and Management for Informatics, 
+Decisions Support Systems and Healthcare, Ethics and Policy Questions: Genomics, Healthcare, and Big Data, 
+Population Health Informatics, Applied Research and Clinical Informatics, Healthcare Innovation and Entrepreneurship, Advanced Concepts in Computer Programming.     
 
 4. **Financial Analyst - University of Chicago BSD Office of Clinical Research**                 
 August 2016 - January 2019    
@@ -32,10 +34,10 @@ for UChicago research staff on Drug Discovery and Development.
 5. **Graduated magna cum laude with a Bachelors of Science in Biology from the New Mexico Institute of Mining and Technology**     
 August 2012 - May 2016      
 **Skills:** Molecular and Cellular Biology Laboratory Techniques and Organic Chemistry Laboratory Techniques.     
-**Courses:** General Biology 1 and 2, General Chemistry 1 and 2, Calculus 1 and 2, Organic Chemistry 1 and 2, Genetics, Cell Biology,     
-College Writing 2, Applied Statistics, Molecular Biology, Technology Forecast and Strategy, General Physics 1 and 2, Directed Research,      
-Technical Writing, Microbiology, Anatomy and Physiology 1 and 2, Bioinformatics, Biochemistry 1, Environmental Microbiology, Anti Microbial     
-Drug Discovery, Quantitative Analysis, Chemistry of Main Group Elements, Freestyle Biosciences, Biomedical Physiology and Engineering, Cell      
+**Courses:** General Biology 1 and 2, General Chemistry 1 and 2, Calculus 1 and 2, Organic Chemistry 1 and 2, Genetics, Cell Biology, 
+College Writing 2, Applied Statistics, Molecular Biology, Technology Forecast and Strategy, General Physics 1 and 2, Directed Research, 
+Technical Writing, Microbiology, Anatomy and Physiology 1 and 2, Bioinformatics, Biochemistry 1, Environmental Microbiology, Anti Microbial 
+Drug Discovery, Quantitative Analysis, Chemistry of Main Group Elements, Freestyle Biosciences, Biomedical Physiology and Engineering, Cell 
 and Molecular Neurosciences, AntiBacterial Drug Discovery 2, Drugs and Behavior      
 
 6. **Student Research Assistant - Rogelj Lab New Mexico Tech Biology Department**  
