@@ -37,8 +37,9 @@ August 2012 - May 2016
 **Courses:** General Biology 1 and 2, General Chemistry 1 and 2, Calculus 1 and 2, Organic Chemistry 1 and 2, Genetics, Cell Biology,
 College Writing 2, Applied Statistics, Molecular Biology, Technology Forecast and Strategy, General Physics 1 and 2, Directed Research, 
 Technical Writing, Microbiology, Anatomy and Physiology 1 and 2, Bioinformatics, Biochemistry 1, Environmental Microbiology, Anti Microbial 
-Drug Discovery, Quantitative Analysis, Chemistry of Main Group Elements, Freestyle Biosciences, Biomedical Physiology and Engineering, Cell 
-and Molecular Neurosciences, AntiBacterial Drug Discovery 2, Drugs and Behavior      
+Drug Discovery 1-3, Quantitative Analysis, Chemistry of Main Group Elements, Freestyle Biosciences, Biomedical Physiology and Engineering, Cell 
+and Molecular Neurosciences, Drugs and Behavior, Ecology, Infection and Immunity, Life Sciences Seminar
+      
 
 6. **Student Research Assistant - Rogelj Lab New Mexico Tech Biology Department**  
 Jan 2015 - May 2016  
