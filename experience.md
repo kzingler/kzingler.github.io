@@ -14,8 +14,14 @@ January 2019 - April 2020
 **Skills:** Grants (T32, RO1, P30), Contracts, Budgets, GCP   
 **Responsibility:** Acted as the Research Program Manager for the Chang Lab and the Digestive Diseases Research Core Center.
 
+3. **Graduated from the University of Chicago's Masters of Science in Biomedical Informatics**     
+September 2018 - December 2019      
+**Skills:** Python, R, SQL, SAS, and Technical Writing.        
+** Courses:** Introduction to Biomedical Informatics, Concepts in Computer Programming, Leadership and Management for Informatics,          
+Decisions Support Systems and Healthcare, Ethics and Policy Questions: Genomics, Healthcare, and Big Data, Population Health     
+Informatics, Applied Research/Clinical Informatics, Healthcare Innovation and Entrepreneurship, Advanced Concepts in Computer Programming.     
 
-3. **Financial Analyst - University of Chicago BSD Office of Clinical Research**                 
+4. **Financial Analyst - University of Chicago BSD Office of Clinical Research**                 
 August 2016 - January 2019    
 **Skills:** Epic, EHRs, Clinical Trial Budgeting, National Clinical Trial Registration,
 Managed Care Cost Accounting, Multi-project Management  
@@ -25,7 +31,16 @@ compliance. Manage projects for confidential medical record numbers as well
 as keeping device studies compliant with National Government Services. Lead trainings 
 for UChicago research staff on Drug Discovery and Development.
 
-4. **Student Research Assistant - Rogelj Lab New Mexico Tech Biology Department**  
+5. **Graduated magna cum laude with a Bachelors of Science in Biology from the New Mexico Institute of Mining and Technology**     
+August 2012 - May 2016      
+**Skills:** Molecular and Cellular Biology Laboratory Techniques and Organic Chemistry Laboratory Techniques.     
+**Courses:** General Biology 1 and 2, General Chemistry 1 and 2, Calculus 1 and 2, Organic Chemistry 1 and 2, Genetics, Cell Biology,     
+College Writing 2, Applied Statistics, Molecular Biology, Technology Forecast and Strategy, General Physics 1 and 2, Directed Research,      
+Technical Writing, Microbiology, Anatomy and Physiology 1 and 2, Bioinformatics, Biochemistry 1, Environmental Microbiology, Anti Microbial     
+Drug Discovery, Quantitative Analysis, Chemistry of Main Group Elements, Freestyle Biosciences, Biomedical Physiology and Engineering, Cell      
+and Molecular Neurosciences, AntiBacterial Drug Discovery 2, Drugs and Behavior      
+
+6. **Student Research Assistant - Rogelj Lab New Mexico Tech Biology Department**  
 Jan 2015 - May 2016  
 **Skills:** BSL2 level lab experience, pathogenic bacterial culture, aseptic 
 technique, quadrant streak for isolation, drip streak, dilution 
@@ -38,7 +53,7 @@ tests conducted are for photo dynamic therapuetic effects,
 minimum inhibitory concentrations, and synergy with common drugs
 already on the market.
 
-5. **Student Research Assistant - Frolova Lab New Mexico Tech Chemistry Department**  
+7. **Student Research Assistant - Frolova Lab New Mexico Tech Chemistry Department**  
 Feb 2014 - May 2016  
 **Skills:** Synthetic organic chemistry, metalorganic chemistry, novel drug 
 synthesis, thin layer chromatography, flash chromatography, 
@@ -47,7 +62,7 @@ column chromatrography, and NMR (proton and carbon).
 indole based compounds. Synthesis of novel members containing
 highly electron donor groups.
 
-6. **Student Research Assistant - Center for Leadership in Technology Commericialization**  
+8. **Student Research Assistant - Center for Leadership in Technology Commericialization**  
 Jan 2014 - May 2016  
 **Skills:** Market research, commercialization strategy and techniques, 
 patent law, licensing of pharmaceuticals, partnering with big 
@@ -57,7 +72,7 @@ Mexico Tech to market. Specifically, implementing techniques for
 bringing biopharmaceuticals through phase 1 in house. Creation of 
 communication and partnership with patent attorneys. 
 
-7. **Administrative Assistant - Joseph R Skeen Libary**  
+9. **Administrative Assistant - Joseph R Skeen Libary**  
 Aug 2012 - Feb 2014  
 **Skills:** Balancing Budgets, filing confidential budget information, 
 filing confidential time-sheets and employee information, inventing organization for files,
@@ -67,7 +82,11 @@ employee information and time-sheets in a timely and organized fashion. Designin
 system for filing library subscription and budget information. Handling and directing business calls. Active in
 customer service situations to maintain business and professional relationships.
 
-
+10. **Dual Enrollment Credits earned from Central New Mexico Community College**        
+**Courses:** Macroeconomics, Elementary French, Intro to Computers, Intro to Physics, Physics 1,     
+Modern Latin American History, Logic and Critical Thinking, Trigonometry, U.S. Politics, Environmental Science,     
+Living World Religions
+**AP Credits:** World Histroy, U.S. History, English and Composition
 
 
 
