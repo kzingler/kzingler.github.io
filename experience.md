@@ -81,7 +81,7 @@ system for filing library subscription and budget information. Handling and dire
 customer service situations to maintain business and professional relationships.
 
 10. **Dual Enrollment Credits earned from Central New Mexico Community College**        
-**Courses:** Macroeconomics, Elementary French, Intro to Computers, Intro to Physics, Physics 1, Modern Latin American History, Logic and Critical Thinking, Trigonometry, U.S. Politics, Environmental Science, Living World Religions       
+**Courses:** Macroeconomics, Elementary French, Intro to Computers, Intro to Physics, Physics 1, Modern Latin American History, Logic and Critical Thinking, Trigonometry, U.S. Politics, Environmental Science, Living World Religions             
 **AP Credits:** World History, U.S. History, English and Composition
 
 
