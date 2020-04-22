@@ -17,7 +17,7 @@ January 2019 - April 2020
 3. **Graduated from the University of Chicago's Masters of Science in Biomedical Informatics**     
 September 2018 - December 2019      
 **Skills:** Python, R, SQL, SAS, and Technical Writing.        
-**Courses:** Introduction to Biomedical Informatics, Concepts in Computer Programming, Leadership and Management for Informatics, Decisions Support Systems and Healthcare, Ethics and Policy Questions: Genomics, Healthcare, and Big Data, Population Health Informatics, Applied Research/Clinical Informatics, Healthcare Innovation and Entrepreneurship, Advanced Concepts in Computer Programming.     
+**Courses:** Introduction to Biomedical Informatics, Concepts in Computer Programming, Leadership and Management for Informatics, Decisions Support Systems and Healthcare, Ethics and Policy Questions: Genomics, Healthcare, and Big Data, Population Health Informatics, Applied Research and Clinical Informatics, Healthcare Innovation and Entrepreneurship, Advanced Concepts in Computer Programming.     
 
 4. **Financial Analyst - University of Chicago BSD Office of Clinical Research**                 
 August 2016 - January 2019    
@@ -81,7 +81,7 @@ system for filing library subscription and budget information. Handling and dire
 customer service situations to maintain business and professional relationships.
 
 10. **Dual Enrollment Credits earned from Central New Mexico Community College**        
-**Courses:** Macroeconomics, Elementary French, Intro to Computers, Intro to Physics, Physics 1, Modern Latin American History, Logic and Critical Thinking, Trigonometry, U.S. Politics, Environmental Science, Living World Religions
+**Courses:** Macroeconomics, Elementary French, Intro to Computers, Intro to Physics, Physics 1, Modern Latin American History, Logic and Critical Thinking, Trigonometry, U.S. Politics, Environmental Science, Living World Religions       
 **AP Credits:** World History, U.S. History, English and Composition
 
 
