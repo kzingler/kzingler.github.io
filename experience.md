@@ -4,35 +4,35 @@ title: Experience
 permalink: /experience/
 ---  
 1. **Senior Compliance Administrator - University of Chicago, University Research Administration**    
-February 2020 - Present      
+Feb 2020 - Present      
 **Skills:** Financial Conflicts of Interest, Conflicts of Commitment, Foreign Influence, Research Compliance       
-**Responsibility:** Responsible for a variety of compliance activities relating to researchers across the university   
+**Responsibility:** I am responsible for a variety of compliance activities relating to researchers across the university   
 
 
 2. **Research Program Manager - University of Chicago Medicine BSD Gastroenterology**  
-January 2019 - April 2020  
+Jan 2019 - Apr 2020  
 **Skills:** Grants (T32, RO1, P30), Contracts, Budgets, GCP   
-**Responsibility:** Acted as the Research Program Manager for the Chang Lab and the Digestive Diseases Research Core Center.
+**Responsibility:** I acted as the Research Program Manager for the Chang Lab and the Digestive Diseases Research Core Center.
 
 3. **Graduated from the University of Chicago's Masters of Science in Biomedical Informatics Program**     
-September 2017 - December 2018      
+Sep 2017 - Dec 2018      
 **Skills:** Python, R, SQL, SAS, and Technical Writing.        
 **Courses:** Introduction to Biomedical Informatics, Concepts in Computer Programming, Leadership and Management for Informatics, 
 Decisions Support Systems and Healthcare, Ethics and Policy Questions: Genomics, Healthcare, and Big Data, 
 Population Health Informatics, Applied Research and Clinical Informatics, Healthcare Innovation and Entrepreneurship, Advanced Concepts in Computer Programming.     
 
 4. **Financial Analyst - University of Chicago BSD Office of Clinical Research**                 
-August 2016 - January 2019    
+Aug 2016 - Jan 2019    
 **Skills:** Epic, EHRs, Clinical Trial Budgeting, National Clinical Trial Registration,
 Managed Care Cost Accounting, Multi-project Management  
-**Responsibility:** Creation of billing documents for research charge 
+**Responsibility:** I worked on the creation of billing documents for research charge 
 review within Epic, pre-review new clinical research studies for billing 
 compliance. Manage projects for confidential medical record numbers as well 
-as keeping device studies compliant with National Government Services. Lead trainings 
-for UChicago research staff on Drug Discovery and Development.
+as keeping device studies compliant with National Government Services. Importantly,
+I lead trainings for UChicago research staff on Drug Discovery and Development.
 
 5. **Graduated magna cum laude with a Bachelors of Science in Biology from the New Mexico Institute of Mining and Technology**     
-August 2012 - May 2016      
+Aug 2012 - May 2016      
 **Skills:** Molecular and Cellular Biology Laboratory Techniques and Organic Chemistry Laboratory Techniques.     
 **Courses:** General Biology 1 and 2, General Chemistry 1 and 2, Calculus 1 and 2, Organic Chemistry 1 and 2, Genetics, Cell Biology,
 College Writing 2, Applied Statistics, Molecular Biology, Technology Forecast and Strategy, General Physics 1 and 2, Directed Research, 
@@ -48,9 +48,9 @@ technique, quadrant streak for isolation, drip streak, dilution
 series, dilution to extinction, drug testing (synergy, photo 
 dynamic therapy, minimum inhibitory concentration), assays 
 (MTT, resazurin), and plate counting.  
-**Project:** Testing drugs from personally synthesized library on
+**Project:** I tested drugs from personally synthesized library on
 *S. pyogenes*, *S. aureus*, *E. coli*, and *S. epidermidis*. The 
-tests conducted are for photo dynamic therapuetic effects,
+tests conducted were for photo dynamic therapuetic effects,
 minimum inhibitory concentrations, and synergy with common drugs
 already on the market.
 
@@ -59,8 +59,8 @@ Feb 2014 - May 2016
 **Skills:** Synthetic organic chemistry, metalorganic chemistry, novel drug 
 synthesis, thin layer chromatography, flash chromatography, 
 column chromatrography, and NMR (proton and carbon).  
-**Project:** Maintance of lead drug family of diversly functionalized
-indole based compounds. Synthesis of novel members containing
+**Project:** I maintained the lead drug family of diversly functionalized
+indole based compounds. I synthesized novel members containing
 highly electron donor groups.
 
 8. **Student Research Assistant - Center for Leadership in Technology Commericialization**  
@@ -68,22 +68,23 @@ Jan 2014 - May 2016
 **Skills:** Market research, commercialization strategy and techniques, 
 patent law, licensing of pharmaceuticals, partnering with big 
 pharmaceutical companies, funding searches, and networking.  
-**Project:** Design for novel process to bring inventions from New 
-Mexico Tech to market. Specifically, implementing techniques for
-bringing biopharmaceuticals through phase 1 in house. Creation of 
-communication and partnership with patent attorneys. 
+**Project:** I helped to design a novel process to bring inventions from New 
+Mexico Tech to market. Specifically, I worked on a multidisciplinary team to
+implement techniques for bringing biopharmaceuticals through phase 1 in house. 
+I also took part in important communication and partnership with patent attorneys. 
 
 9. **Administrative Assistant - Joseph R Skeen Libary**  
 Aug 2012 - Feb 2014  
 **Skills:** Balancing Budgets, filing confidential budget information, 
 filing confidential time-sheets and employee information, inventing organization for files,
 answering phones, maintaining business relationships, and handling customer service situations.  
-**Project:** Handling all office supply and other orders for the library. Taking care to file 
-employee information and time-sheets in a timely and organized fashion. Designing and implementing a novel
-system for filing library subscription and budget information. Handling and directing business calls. Active in
-customer service situations to maintain business and professional relationships.
+**Project:** I handled office supply and other orders for the library. I took care to file 
+employee information and time-sheets in a timely and organized fashion. I also designed and implemented a novel
+system for filing library subscription and budget information. Additionally, I handled and directed business calls.
+Finally, I was active in customer service situations to maintain business and professional relationships.
 
-10. **Dual Enrollment Credits earned from Central New Mexico Community College**        
+10. **Dual Enrollment Credits earned from Central New Mexico Community College**      
+Aug 2010 - May 2012              
 **Courses:** Macroeconomics, Elementary French, Intro to Computers, Intro to Physics, Physics 1, Modern Latin American History, Logic and Critical Thinking, Trigonometry, U.S. Politics, Environmental Science, Living World Religions             
 **AP Credits:** World History, U.S. History, English and Composition
 
