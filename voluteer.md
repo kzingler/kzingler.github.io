@@ -25,13 +25,15 @@ for local homeless population.
 **Hobbies**  
 1. Lyric Memorizer Extraordinaire  
 12/09/1993 - Present  
-2. Baking  
+2. Disney
+12/09/1993 - Present
+3. Baking  
 12/2004 - Present    
-3. Yoga  
+4. Yoga  
 08/2008 - Present     
-4. Spinning  
+5. Spinning  
 01/2013 - Present  
-5. Zumba   
+6. Zumba   
 03/2017 - Present
 
 Fitness Level: Elite (As proclaimed by an elliptical in a gym!)
