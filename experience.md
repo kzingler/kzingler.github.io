@@ -6,7 +6,7 @@ permalink: /experience/
 1. **Senior Compliance Administrator - University of Chicago, University Research Administration**    
 Feb 2020 - Present      
 **Skills:** Financial Conflicts of Interest, Conflicts of Commitment, Foreign Influence, Research Compliance       
-**Responsibility:** I am responsible for a variety of compliance activities relating to researchers across the university   
+**Responsibility:**  Responsible for a variety of compliance oversight duties primarily associated with Financial Conflict of Interest (COI). Create and maintain professional relationships with diverse group of 3.000+ investigators across UChicago.   
 
 
 2. **Research Program Manager - University of Chicago Medicine BSD Gastroenterology**  
@@ -86,7 +86,7 @@ Finally, I was active in customer service situations to maintain business and pr
 10. **Dual Enrollment Credits earned from Central New Mexico Community College**      
 Aug 2010 - May 2012              
 **Courses:** Macroeconomics, Elementary French, Intro to Computers, Intro to Physics, Physics 1, Modern Latin American History, Logic and Critical Thinking, Trigonometry, U.S. Politics, Environmental Science, Living World Religions             
-**AP Credits:** World History, U.S. History, English and Composition
+**AP Credits:** World History, U.S. History, English Language and Composition, English Literature and Composition
 
 
 
