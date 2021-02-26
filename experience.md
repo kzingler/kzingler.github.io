@@ -76,7 +76,7 @@ I also took part in important communication and partnership with patent attorney
 9. **Administrative Assistant - Joseph R Skeen Libary**  
 Aug 2012 - Feb 2014  
 **Skills:** Balancing Budgets, filing confidential budget information, 
-filing confidential time-sheets and employee information, inventing organization for files,
+filing confidential time-sheets and employee information, inventing organization system for files,
 answering phones, maintaining business relationships, and handling customer service situations.  
 **Project:** I handled office supply and other orders for the library. I took care to file 
 employee information and time-sheets in a timely and organized fashion. I also designed and implemented a novel
