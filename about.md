@@ -6,7 +6,7 @@ permalink: /about/
 My name is Kailee Zingler.  
 
 As of February 2020, I am now the Senior Compliance Administrator for the University of Chicago's [University Research Administration](https://ura.uchicago.edu) conflict of interest team.
-Here, I manage a variety of compliance tasks relating to financial conflicts of interest, conflicts of commitment, and foreign influence on university research.
+Here, I manage a variety of compliance tasks relating to financial conflicts of interest, conflicts of commitment, and foreign influence on university research. I create and maintain professional relationships with diverse group of 3.000+ investigators across UChicago. I am responsible for keepign up with foreign influence federal rules and regulations.
 
 From January 2019 through April 2020, I worked as the Research Program Manager for the [Digestive Diseases Research Core Center](http://www.uchicagoddrcc.org/research-cores) as well as for [Dr. Eugene Chang's Lab](https://changlab.uchicago.edu) in the Gastroenterology Department of the [University of Chicago Medicine](https://en.wikipedia.org/wiki/University_of_Chicago_Medical_Center).
 While there, I worked on two important NIH grant resubmissions. The first was the resubmission for the longstanding NIH NIDDK T32 program at UChicago, we achieved a score of 17 and were renewed. The second was for the 30 year old NIH NIDDK Digestive Diseases Research Core Center program, we achieved a score of 18 and were renewed.
@@ -16,7 +16,7 @@ I am a December 2018 graduate of the [MSc. in Biomedical Informatics](https://gr
 Here I excelled in my courses and focused my attention on Population Health Informatics. My Thesis was titled, The Feasibility of Utilizing EHR Data to Supplant Survey Data Collection: A Case Study. 
 
 From August 2016 through January 2019, I worked for the [University of Chicago](https://en.wikipedia.org/wiki/University_of_Chicago) Biological Sciences Division as a Financial Analyst in the
-[Office of Clinical Research](http://bsdocr.bsd.uchicago.edu). Here, I helped own Epic Research Functionality daily operations of clinical research billing as well as training of research staff.
+[Office of Clinical Research](http://bsdocr.bsd.uchicago.edu). Here, I helped own Epic Research Functionality daily operations of clinical research billing as well as training of research staff in drug development. 
 
 In May of 2016, I graduated from New Mexico Tech [New Mexico Institute of Mining and
 Technology](https://en.wikipedia.org/wiki/New_Mexico_Institute_of_Mining_and_Technology), 
