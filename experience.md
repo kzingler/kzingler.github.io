@@ -23,7 +23,7 @@ Population Health Informatics, Applied Research and Clinical Informatics, Health
 
 4. **Financial Analyst - University of Chicago BSD Office of Clinical Research**                 
 Aug 2016 - Jan 2019    
-**Skills:** Epic, EHRs, Clinical Trial Budgeting, National Clinical Trial Registration,
+**Skills:** Epic, EHRs, Clinical Trial Budgeting, Medical Billing and Coding, National Clinical Trial Registration,
 Managed Care Cost Accounting, Multi-project Management  
 **Responsibility:** I worked on the creation of billing documents for research charge 
 review within Epic, pre-review new clinical research studies for billing 
