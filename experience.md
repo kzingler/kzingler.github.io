@@ -11,7 +11,7 @@ Feb 2020 - Present
 
 2. **Research Program Manager - University of Chicago Medicine BSD Gastroenterology**  
 Jan 2019 - Apr 2020  
-**Skills:** Grants (T32, RO1, P30), Contracts, Budgets, GCP   
+**Skills:** Grants (T32, RO1, P30), Contracts, Budgets, GCP, Personnel Management, Conflict Resolution             
 **Responsibility:** I acted as the Research Program Manager for the Chang Lab and the Digestive Diseases Research Core Center.
 
 3. **Graduated from the University of Chicago's Masters of Science in Biomedical Informatics Program**     
