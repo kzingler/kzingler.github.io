@@ -5,6 +5,8 @@ permalink: /about/
 ---
 My name is Kailee Zingler.  
 
+In fall 2021, I became a part-time Law Student at DePaul University. My expected graduation date is June 2025.
+
 As of February 2020, I am now the Senior Compliance Administrator for the University of Chicago's [University Research Administration](https://ura.uchicago.edu) conflict of interest team.
 Here, I manage a variety of compliance tasks relating to financial conflicts of interest, conflicts of commitment, and foreign influence on university research. I create and maintain professional relationships with diverse group of 2.000+ investigators across UChicago. I am responsible for keeping up with foreign influence federal rules and regulations.
 
