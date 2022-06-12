@@ -3,25 +3,30 @@ layout: page
 title: Experience
 permalink: /experience/
 ---  
-1. **Senior Compliance Administrator - University of Chicago, University Research Administration**    
+1. **Student - DePaul University College of Law**     
+Aug 2021 - Present    
+**Skills:** Legal Analysis, Legal  Writing        
+**Courses:** Contracts, Torts, Preparing to Practive I & II, Applied Legal Skills, Constitutional Law, Civil Procedure, LARC I. 
+
+2. **Senior Compliance Administrator - University of Chicago, University Research Administration**    
 Feb 2020 - Present      
 **Skills:** Financial Conflicts of Interest, Conflicts of Commitment, Foreign Influence, Research Compliance       
-**Responsibility:**  Responsible for a variety of compliance oversight duties primarily associated with Financial Conflict of Interest (COI). Create and maintain professional relationships with diverse group of 3.000+ investigators across UChicago.   
+**Responsibility:**  Responsible for a variety of compliance oversight duties primarily associated with Financial Conflict of Interest (COI). Conduct COI reviews for annual reporting and new award submissions for orgnizations. Review new and annually reviewed IRBs for investigator COI. Create and maintain professional relationships with diverse group of 3.000+ investigators across UChicago.   
 
 
-2. **Research Program Manager - University of Chicago Medicine BSD Gastroenterology**  
+3. **Research Program Manager - University of Chicago Medicine BSD Gastroenterology**  
 Jan 2019 - Apr 2020  
 **Skills:** Grants (T32, RO1, P30), Contracts, Budgets, GCP, Personnel Management, Conflict Resolution             
 **Responsibility:** I acted as the Research Program Manager for the Chang Lab and the Digestive Diseases Research Core Center.
 
-3. **Graduated from the University of Chicago's Masters of Science in Biomedical Informatics Program**     
+4. **Graduated from the University of Chicago's Masters of Science in Biomedical Informatics Program**     
 Sep 2017 - Dec 2018      
 **Skills:** Python, R, SQL, SAS, and Technical Writing.        
 **Courses:** Introduction to Biomedical Informatics, Concepts in Computer Programming, Leadership and Management for Informatics, 
 Decisions Support Systems and Healthcare, Ethics and Policy Questions: Genomics, Healthcare, and Big Data, 
 Population Health Informatics, Applied Research and Clinical Informatics, Healthcare Innovation and Entrepreneurship, Advanced Concepts in Computer Programming.     
 
-4. **Financial Analyst - University of Chicago BSD Office of Clinical Research**                 
+5. **Financial Analyst - University of Chicago BSD Office of Clinical Research**                 
 Aug 2016 - Jan 2019    
 **Skills:** Epic, EHRs, Clinical Trial Budgeting, Medical Billing and Coding, National Clinical Trial Registration,
 Managed Care Cost Accounting, Multi-project Management  
@@ -31,7 +36,7 @@ compliance. Manage projects for confidential medical record numbers as well
 as keeping device studies compliant with National Government Services. Importantly,
 I lead trainings for UChicago research staff on Drug Discovery and Development.
 
-5. **Graduated magna cum laude with a Bachelors of Science in Biology from the New Mexico Institute of Mining and Technology**     
+6. **Graduated magna cum laude with a Bachelors of Science in Biology from the New Mexico Institute of Mining and Technology**     
 Aug 2012 - May 2016      
 **Skills:** Molecular and Cellular Biology Laboratory Techniques and Organic Chemistry Laboratory Techniques.     
 **Courses:** General Biology 1 and 2, General Chemistry 1 and 2, Calculus 1 and 2, Organic Chemistry 1 and 2, Genetics, Cell Biology,
@@ -41,7 +46,7 @@ Drug Discovery 1-3, Quantitative Analysis, Chemistry of Main Group Elements, Fre
 and Molecular Neurosciences, Drugs and Behavior, Ecology, Infection and Immunity, Life Sciences Seminar
       
 
-6. **Student Research Assistant - Rogelj Lab New Mexico Tech Biology Department**  
+7. **Student Research Assistant - Rogelj Lab New Mexico Tech Biology Department**  
 Jan 2015 - May 2016  
 **Skills:** BSL2 level lab experience, pathogenic bacterial culture, aseptic 
 technique, quadrant streak for isolation, drip streak, dilution 
@@ -54,7 +59,7 @@ tests conducted were for photo dynamic therapuetic effects,
 minimum inhibitory concentrations, and synergy with common drugs
 already on the market.
 
-7. **Student Research Assistant - Frolova Lab New Mexico Tech Chemistry Department**  
+8. **Student Research Assistant - Frolova Lab New Mexico Tech Chemistry Department**  
 Feb 2014 - May 2016  
 **Skills:** Synthetic organic chemistry, metalorganic chemistry, novel drug 
 synthesis, thin layer chromatography, flash chromatography, 
@@ -63,7 +68,7 @@ column chromatrography, and NMR (proton and carbon).
 indole based compounds. I synthesized novel members containing
 highly electron donor groups.
 
-8. **Student Research Assistant - Center for Leadership in Technology Commericialization**  
+9. **Student Research Assistant - Center for Leadership in Technology Commericialization**  
 Jan 2014 - May 2016  
 **Skills:** Market research, commercialization strategy and techniques, 
 patent law, licensing of pharmaceuticals, partnering with big 
@@ -73,7 +78,7 @@ Mexico Tech to market. Specifically, I worked on a multidisciplinary team to
 implement techniques for bringing biopharmaceuticals through phase 1 in house. 
 I also took part in important communication and partnership with patent attorneys. 
 
-9. **Administrative Assistant - Joseph R Skeen Libary**  
+10. **Administrative Assistant - Joseph R Skeen Libary**  
 Aug 2012 - Feb 2014  
 **Skills:** Balancing Budgets, filing confidential budget information, 
 filing confidential time-sheets and employee information, inventing organization system for files,
@@ -83,7 +88,7 @@ employee information and time-sheets in a timely and organized fashion. I also d
 system for filing library subscription and budget information. Additionally, I handled and directed business calls.
 Finally, I was active in customer service situations to maintain business and professional relationships.
 
-10. **Dual Enrollment Credits earned from Central New Mexico Community College**      
+11. **Dual Enrollment Credits earned from Central New Mexico Community College**      
 Aug 2010 - May 2012              
 **Courses:** Macroeconomics, Elementary French, Intro to Computers, Intro to Physics, Physics 1, Modern Latin American History, Logic and Critical Thinking, Trigonometry, U.S. Politics, Environmental Science, Living World Religions             
 **AP Credits:** World History, U.S. History, English Language and Composition, English Literature and Composition
