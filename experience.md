@@ -19,7 +19,7 @@ Jan 2019 - Apr 2020
 **Skills:** Grants (T32, RO1, P30), Contracts, Budgets, GCP, Personnel Management, Conflict Resolution             
 **Responsibility:** I acted as the Research Program Manager for the Chang Lab and the Digestive Diseases Research Core Center.
 
-4. **Graduated (summa cum laude equivalent) from the University of Chicago's Masters of Science in Biomedical Informatics Program**     
+4. **Graduated (summa cum laude equivalent) from the University of Chicago's Masters of Science in Biomedical Informatics program**     
 Sep 2017 - Dec 2018      
 **Skills:** Python, R, SQL, SAS, and Technical Writing.        
 **Courses:** Introduction to Biomedical Informatics, Concepts in Computer Programming, Leadership and Management for Informatics, 
