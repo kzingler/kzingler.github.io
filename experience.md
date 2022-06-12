@@ -48,7 +48,7 @@ and Molecular Neurosciences, Drugs and Behavior, Ecology, Infection and Immunity
 
 7. **Student Research Assistant - Rogelj Lab New Mexico Tech Biology Department**  
 Jan 2015 - May 2016  
-**Skills:** BSL2 level lab experience, pathogenic bacterial culture, aseptic technique, quadrant streak for isolation, drip streak, dilution series, dilution to extinction, drug testing (synergy, photo dynamic therapy, minimum inhibitory concentration), assays (MTT, resazurin), and plate counting 
+**Skills:** BSL2 level lab experience, pathogenic bacterial culture, aseptic technique, quadrant streak for isolation, drip streak, dilution series, dilution to extinction, drug testing (synergy, photo dynamic therapy, minimum inhibitory concentration), assays (MTT, resazurin), and plate counting       
 **Project:** I tested drugs from personally synthesized library on
 *S. pyogenes*, *S. aureus*, *E. coli*, and *S. epidermidis*. The 
 tests conducted were for photo dynamic therapuetic effects,
