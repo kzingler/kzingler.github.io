@@ -28,7 +28,7 @@ magna cum laude, with my Bachelors of Science in Biology.
 
 During my undergraduate years I was involved in three separate research ventures. The first started in
 January of 2014, I worked in initial stages of the [Center for Leadership in Technology
-Commercialization (now the Office of Innovation Commercialization)](https://www.nmt.edu/academics/management/oic.php) 
+Commercialization (now the Office of Innovation Commercialization)](https://www.nmt.edu/oic/) 
 under Dr. Peter Anselmo doing market research, researching patent law and FDA regulations,
 helping to draft business plans, working towards commercialization of medical technology and 
 intellectual property created at New Mexico Tech. I began research with the [Chemistry
