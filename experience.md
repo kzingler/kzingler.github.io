@@ -6,7 +6,7 @@ permalink: /experience/
 1. **Student - DePaul University College of Law**     
 Aug 2021 - Present    
 **Skills:** Legal Analysis, Legal  Writing        
-**Courses:** Contracts, Torts, Applied Legal Skills, Preparing to Practive I & II, Constitutional Law, Civil Procedure, LARC I. 
+**Courses:** Contracts, Torts, Applied Legal Skills, Preparing to Practice I & II, Constitutional Law, Civil Procedure, LARC I. 
 
 2. **Senior Compliance Administrator - University of Chicago, University Research Administration**    
 Feb 2020 - Present      
