@@ -5,7 +5,7 @@ permalink: /about/
 ---
 My name is Kailee Zingler.  
 
-During my first summer in Law School I will act as the Teaching Assistant for Ethics and Policy Questions: Genomics, Healthcare, and Big Data. This course is a core requirement for the Master's in Biomedical Informatics program I completed in 2018. 
+During my first summer in Law School I acted as the Teaching Assistant for Ethics and Policy Questions: Genomics, Healthcare, and Big Data. This course is a core requirement for the Master's in Biomedical Informatics program I completed in 2018. 
 
 In fall 2021, I became a part-time Law Student at [DePaul University College of Law](https://en.wikipedia.org/wiki/DePaul_University_College_of_Law). My expected graduation date is June 2025.
 
