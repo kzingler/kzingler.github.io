@@ -5,9 +5,9 @@ permalink: /extracurrics/
 ---
   
 **Volunteering**  
-1. CGLA/Ice Miller Expungement/Sealing Clinic
-September 2021 - Present
-Volunteer attorney aiding in the charting, drafting, and client consultation of petitions for sealing and expungement of cases in Illinois.
+1. CGLA/Ice Miller: Expungement/Sealing Clinic   
+September 2021 - Present   
+Volunteer attorney aiding in the charting, drafting, and client consultation of petitions for sealing and expungement of cases in Illinois.   
 2. Hyde Park Cats   
 September 2017 - Present   
 Reference checks of potential adopters and fosterer's, fund-raising,
