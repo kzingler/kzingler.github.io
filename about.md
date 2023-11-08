@@ -9,7 +9,7 @@ During my first summer in Law School I acted as the Teaching Assistant for Ethic
 
 In fall 2021, I became a part-time Law Student at [DePaul University College of Law](https://en.wikipedia.org/wiki/DePaul_University_College_of_Law). My expected graduation date is June 2025.
 
-As of February 2020, I am now the Senior Compliance Administrator for the University of Chicago's [University Research Administration](https://ura.uchicago.edu) conflict of interest team.
+As of February 2020, I am now the Compliance Officer for the University of Chicago's [University Research Administration](https://ura.uchicago.edu) conflict of interest team.
 Here, I manage a variety of compliance tasks relating to financial conflicts of interest, conflicts of commitment, and foreign influence on university research. I create and maintain professional relationships with diverse group of 3.000+ investigators across UChicago. I am responsible for keeping up with foreign influence federal rules and regulations.
 
 From January 2019 through April 2020, I worked as the Research Program Manager for the [Digestive Diseases Research Core Center](https://www.niddk.nih.gov/research-funding/research-programs/digestive-disease-centers) as well as for [Dr. Eugene Chang's Lab](https://metabolism.uchicago.edu/program/faculty/eugene-b-chang) in the Gastroenterology Department of the [University of Chicago Medicine](https://en.wikipedia.org/wiki/University_of_Chicago_Medical_Center).

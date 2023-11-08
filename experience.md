@@ -6,9 +6,9 @@ permalink: /experience/
 1. **Student - DePaul University College of Law**     
 Aug 2021 - Present    
 **Skills:** Legal Analysis, Legal  Writing        
-**Courses:** Contracts, Torts, Applied Legal Skills, Preparing to Practice I & II, Constitutional Law, Civil Procedure, LARC I. 
+**Courses:** Applied Legal Skills, Civil Procedure, Civil and Health Law Clinic, Constitutional Law, Contracts, Criminal law, Health Equity and the Law, LARC I-III, Legal Profession, Preparing to Practice I & II, Property, Torts. 
 
-2. **Senior Compliance Administrator - University of Chicago, University Research Administration**    
+2. **Compliance Officer - University of Chicago, University Research Administration**    
 Feb 2020 - Present      
 **Skills:** Financial Conflicts of Interest, Conflicts of Commitment, Foreign Influence, Research Compliance       
 **Responsibility:**  Responsible for a variety of compliance oversight duties primarily associated with Financial Conflict of Interest (COI). Conduct COI reviews for annual reporting and new award submissions for orgnizations. Review new and annually reviewed IRBs for investigator COI. Create and maintain professional relationships with diverse group of 3.000+ investigators across UChicago.   
