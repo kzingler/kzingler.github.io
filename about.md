@@ -7,7 +7,7 @@ My name is Kailee Zingler.
 
 During my first summer in Law School I acted as the Teaching Assistant for Ethics and Policy Questions: Genomics, Healthcare, and Big Data. This course is a core requirement for the Master's in Biomedical Informatics program I completed in 2018. 
 
-In fall 2021, I became a part-time Law Student at [DePaul University College of Law](https://en.wikipedia.org/wiki/DePaul_University_College_of_Law). My expected graduation date is June 2025.
+In fall 2021, I became a part-time Law Student at [DePaul University College of Law](https://en.wikipedia.org/wiki/DePaul_University_College_of_Law). My expected graduation date is May 2025.
 
 As of February 2020, I am now the Compliance Officer for the University of Chicago's [University Research Administration](https://ura.uchicago.edu) conflict of interest team.
 Here, I manage a variety of compliance tasks relating to financial conflicts of interest, conflicts of commitment, and foreign influence on university research. I create and maintain professional relationships with diverse group of 3.000+ investigators across UChicago. I am responsible for keeping up with foreign influence federal rules and regulations.
