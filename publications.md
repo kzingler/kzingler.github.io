@@ -3,7 +3,6 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-[Inter-Journal Write-On Competition June/2022](/assets/Inter-Journal Write-On Competition 2022.pdf)
 
 [US Patent Number: 9834514 ``Antibiotic sensitivity-restoring and photosensitive agents''](https://patents.justia.com/patent/9834514)
 
