@@ -3,7 +3,7 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-<a href="/assets/bioinformatics.pdf">[Visualization of Next-Generation Sequencing of Brain Cancer Gene Expression 10/2014].</a>
+<a href="/assets/Inter-Journal Write-On Competition 2022.pdf">Inter-Journal Write-On Competition June/2022.</a>
 
 [US Patent Number: 9834514 ``Antibiotic sensitivity-restoring and photosensitive agents''](https://patents.justia.com/patent/9834514)
 
